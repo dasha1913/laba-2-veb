@@ -1,0 +1,29 @@
+body{
+	background: #ffffff;
+}
+#video{
+	margin-left: 20%;
+}
+.main{
+	background: #FFC400;
+	margin-right: 500px;
+	margin-left: 500px;
+	border-top-left-radius: 50px;
+	border-top-right-radius: 50px;
+	border-bottom-right-radius: 50px;
+	border-bottom-left-radius: 50px;
+}
+.content{
+	margin-left: 25%;
+	margin-right: 25%;
+}
+#platforms{
+	margin-left: 250px;
+}
+#image{
+	margin-left: 45%;
+}
+#last{
+	border: 12px solid #181818;
+	margin-left: 500px;
+}
